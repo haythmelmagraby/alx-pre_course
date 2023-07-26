@@ -13,3 +13,4 @@ ls -l
 git clone
 git config --global
 rm -r
+git pull
